@@ -1,0 +1,13 @@
+# Настройка генерации сплешскрина
+# dart run flutter_native_splash:create
+flutter_native_splash:
+  color: "#2962D3"
+  image: "assets/images/splash.png"
+  #color_dark: "#2962D3"
+  #image_dark: "assets/images/splash.png"
+
+  android_12:
+    color: "#2962D3"
+    image: "assets/images/android12splash.png"
+
+  web: false
