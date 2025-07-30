@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--text-->
+    <color name="textPrimary">#22263A</color>
+    <color name="textSecondary">#FFFFFF</color>
+    <color name="textTertiary">#716E7E</color>
+    <color name="textSubhead">#90929C</color>
+    <color name="textAccent">#2962D3</color>
+    <color name="textNegative">#E04E4E</color>
+    <color name="textPositive">#469649</color>
+    <color name="textLink">#2962D3</color>
+</resources>
+
